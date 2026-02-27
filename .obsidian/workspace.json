@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "665ddf5514f3f999",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8af672fb69ff92c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b617fcfe520e116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "toucan-ops-pitch-deck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "toucan-ops-pitch-deck"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b67e91a3db3dc87",
+    "type": "split",
+    "children": [
+      {
+        "id": "989c668987bf5eef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5f392673154bba2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06ade4ce65d839e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3bcb29917a06496",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a457aac51ee68cd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a8912913122c1df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84eb93642f521189",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "toucan-ops-pitch-deck.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for toucan-ops-pitch-deck"
+            }
+          },
+          {
+            "id": "56ca221d3f3d9f78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "toucan-ops-pitch-deck.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from toucan-ops-pitch-deck"
+            }
+          },
+          {
+            "id": "2b60e5f7c819b4cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6466dbc922782b66",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ed9b2c9ed26775f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "toucan-ops-pitch-deck.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of toucan-ops-pitch-deck"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0b617fcfe520e116",
+  "lastOpenFiles": []
+}
