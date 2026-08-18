@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Plenty of HLS origins and segment CDNs are still served over plain HTTP.
+  Cleartext stays enabled so those streams are downloadable, while HTTPS
+  remains the default for anything that offers it.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
